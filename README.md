@@ -1,2 +1,3 @@
-#JS CART
-Add-to feature is done by  **_DOM** manipulation_ 
+
+## JS CART
+ Add-to git.com feature is done by  **DOM** _manipulation_
